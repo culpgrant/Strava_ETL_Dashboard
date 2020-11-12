@@ -1,4 +1,4 @@
-# Strava_Dashboard
+# [Strava_Dashboard](https://strava-grant-culp-plotly.herokuapp.com/)
 Building a Strava Dashboard on Flask using Dash. This project involved two major parts of the data pull from the Strava API and the dashboard building using Flask/Dash. Link to [Dashboard](https://strava-grant-culp-plotly.herokuapp.com/) hosted on Heroku.
 
 ## Motivation:
