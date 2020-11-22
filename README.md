@@ -1,5 +1,5 @@
-# Strava_Dashboard and ETL
-Building a Strava Dashboard on Flask using Dash. This project involved two major parts of the data pull from the Strava API and the dashboard building using Flask/Dash. Additionally, I created a SQL Database on my local machine to demonstrate SQL skills. Link to [Dashboard](https://strava-grant-culp-plotly.herokuapp.com/) hosted on Heroku.
+# Strava ETL and Dashboard
+Building an ETL out of Strava API and a dashboard on Flask using Dash. This project involved two major parts of the data pull from the Strava API and the dashboard building using Flask/Dash. Additionally, I created a SQL Database on my local machine to demonstrate SQL skills. Link to [Dashboard](https://strava-grant-culp-plotly.herokuapp.com/) hosted on Heroku.
 
 ## Motivation:
 I wanted to build a dashboard to help analyze my Strava data and continue to get experience working with APIs. Strava is a fitness app that is a semi-social media app that allows you to track your activities with your friends, it is mainly used for running/biking.
